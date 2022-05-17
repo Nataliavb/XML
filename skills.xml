@@ -1,5 +1,7 @@
 <xml>
-	<p1>skill_1:Github</p1>
-        <p2>skill_2:Gitbush</p2>
-	<p3>skill_3:Postman</p3>
-	<p4>skill_4:SQL</p4>
+	<skill_1>Github</skill_1>
+        <skill_2>Gitbush</skill_2>
+	<skill_3>Postman</skill_3>
+	<skill_4>SQL</skill_4>
+	<skill_5>API</skill_5>
+	<skill_6>Fiddler</skill_6>
